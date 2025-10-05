@@ -1,1 +1,3 @@
-# Guess-the-number
+# DEPENDENCIES
+---
+- pip install random
